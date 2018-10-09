@@ -10,9 +10,7 @@ Implementation of the Data Definition Languages DDLs used to design this databas
 
 
 
-1. Create a database with any name of your choice for me
-
-I created a 'nytimestopstories' database using the RDMS-MariaDB.
+1. Create a database with any name of your choice for me, I created a 'nytimestopstories' database using the RDMS-MariaDB.
 
 2. Have an IDE choice, run the python script which creates the database, for instance 'nytimestopstories'.
 
@@ -21,7 +19,7 @@ I created a 'nytimestopstories' database using the RDMS-MariaDB.
 4. View the table dump by opeining the 'nytimestopstoriesdump.sql' file.
 
 
-**Congratulations!!** Your database with some sample data inserted in it have been created
+**Boom!!** Your database with some sample data inserted in it have been created
 
 
 **Python** and **MariaDB** was used for this illustration.
